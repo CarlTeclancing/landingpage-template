@@ -1,4 +1,39 @@
 # landingpage-template
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>RESPONSIVE NAVIGATIOn</title>
+</head>
+<body>
+    <nav class="navbar">
+        <span class="navbar-toggle" id="js-navbar-toggle">
+                <i class="fas fa-bars"></i>
+            </span>
+        <a href="#" class="logo">logo</a>
+        <ul class="main-nav" id="js-menu">
+          <li>
+            <a href="#" class="nav-links">Home</a>
+          </li>
+          <li>
+            <a href="#" class="nav-links">Products</a>
+          </li>
+          <li>
+            <a href="#" class="nav-links">About Us</a>
+          </li>
+          <li>
+            <a href="#" class="nav-links">Contact Us</a>
+          </li>
+          <li>
+            <a href="#" class="nav-links">Blog</a>
+          </li>
+        </ul>
+      </nav>
+    <script src="js/script.js"></script>
+</body>
+</html>
 this idea was really thought to atrribute as i was just in the html and css learning procces
 thanks it went on progress
 fell free to swap rown the codes and also the pictures are strickly for the project purpose
